@@ -34,9 +34,8 @@ _• Google Colaboratory_<br/>
 
 ### Algorithms Used:
 _• Linear Regression_<br/>
-_• Decision Tree Regression_<br/>
-_• Random Forest Regression_<br/>
-_• Adaptive Boosting (AdaBoost) Algorithm_<br/>
+_• Ridge Regression_<br/>
+_• Lasso Regression_<br/>
 
 ### Future Scope:
 _• Add columns in dataset of top batsmen and bowlers of all the teams._<br/>
